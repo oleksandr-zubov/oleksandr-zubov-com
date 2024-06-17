@@ -1,2 +1,2 @@
 # oleksandr-zubov-com-poster
-personal web site teaser 
+personal web site poster 
