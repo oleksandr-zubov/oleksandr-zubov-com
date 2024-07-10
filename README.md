@@ -1,2 +1,2 @@
-# oleksandr-zubov-com-poster
-personal web site poster 
+# oleksandr-zubov-com
+personal web site
